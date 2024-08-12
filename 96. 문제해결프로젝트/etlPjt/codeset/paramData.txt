@@ -1,0 +1,2 @@
+param_seg,param_value,comments
+folder_loc,../dataset,codeset 내 파일 기준 수집파일 위치 정의
